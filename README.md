@@ -6,3 +6,4 @@
 - Population
 - Unemployment
 - Percent of Population Rural
+- Population By Race
